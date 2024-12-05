@@ -5,4 +5,4 @@ Design for this landing page:
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/layout_landing-pag/)
+- [DEMO LINK](https://AndriiZakharenko.github.io/layout_landing-page/)
